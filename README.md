@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am currently studying Software Engineering 
+I am currently studying Software Engineering with major in AI 
+Looking for a Junior/Graduate Opportunities to apply my skills in real-world applications
 
 
 # 💻 Tech Stack:
